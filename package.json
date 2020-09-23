@@ -1,0 +1,23 @@
+{
+    "name": "fs06-classroom-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aaron-clarusway/fs06-classroom-test.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/aaron-clarusway/fs06-classroom-test/issues"
+    },
+    "homepage": "https://github.com/aaron-clarusway/fs06-classroom-test#readme",
+    "devDependencies": {
+        "jest": "^26.4.2"
+    }
+}
